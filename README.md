@@ -1,2 +1,0 @@
-# SpringCMS
-SpringCMS
